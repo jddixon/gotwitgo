@@ -1,5 +1,5 @@
+*.log
 *.java
 *.jar
-.*.swp
+*.swp
 junk*
-
