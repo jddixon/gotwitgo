@@ -1,4 +1,5 @@
-<h1 class="appTop">gotwitgo</h1>
+<h1 class="libTop">gotwitgo</h1>
+
 
 A Twitter client for the Go programming language allowing simple 
 access to Twitter's v1.1 API from Go.
