@@ -1,6 +1,6 @@
 package xgo
 
-// xgo/const.go
+// xgo/version.go
 
 const (
 	VERSION      = "0.1.1"
