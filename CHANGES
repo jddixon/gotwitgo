@@ -1,5 +1,8 @@
 gotwitgo/CHANGES
 
+2015-06-26
+    v0.1.1
+        * added version.go, updated .gitignore                      SLOC    4
 2013-12-30
     v0.1.0
-        * 
+        * initial commit 
