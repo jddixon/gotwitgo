@@ -10,4 +10,4 @@ This project has just begun development; there is nothing here for end users.
 ## On-line Documentation
 
 More information on the **gotwitgo** project can be found
-[here](://jddixon.github.io/gotwitgo)
+[here](https://jddixon.github.io/gotwitgo)
