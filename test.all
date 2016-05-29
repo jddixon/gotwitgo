@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+if [ ! -z "${DEV_BASE// }" ]
+then
+  cd $DEV_BASE/go/src/github.com/jddixon/gotwitgo
+  
+  go test ./...
+  
+else
+  echo "DEV_BASE is not defined"
+fi

@@ -1,5 +1,8 @@
 gotwitgo/CHANGES
 
+v0.1.6
+    2016-05-28
+        * add .dvcz, bkp2U, other bash scripts                      SLOC   90
 v0.1.5
     2016-02-24
         * update LICENSE, add countem                               SLOC   10
@@ -18,6 +21,7 @@ v0.1.1
 v0.1.0
     2013-12-30
         * initial commit 
+
 
 
 
