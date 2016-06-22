@@ -1,3 +1,4 @@
 # gotwitgo/.dvcz/projCfg.local
 
-
+# This actually gets counted, which is not helpful
+# bin:local:easy-rest-definition.pdf

@@ -1,0 +1,54 @@
+-----BEGIN RSA PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoM2sBgX0ChP2JriXkOxS
+e2FjHYVzBGkNvgf0vIAa7FFYZi2pWmxBAVXgl3tTiB3quqqud/MbKqdejM6gkKBK
+v8f7hlcBQLD6BLIZ/RRfhIElc+WlDVfKSnBTB4va5qTQAgvuq5i8+oMj7G8WEy5d
+7cYucWyUJMtHvT4pCDtBWeeqQ62tByWjv34Ud/+A9Mjf0leiWxM3tiToVsqIKb4s
+zPjEShF9rvcNa9XEy1dKpcDz9Szbm2SlxOgM83fDDGtOq4SSCSqndtxrOvXXPB57
+H1mJV/FmerbXRPm5ERJVNIxtLk7Gr2Ce45FVlWyJGMhpfVlKkkk+bRQ02OFfazJI
+GQIDAQAB
+-----END RSA PUBLIC KEY-----
+gotwitgo v0.1.7
+2016-06-22 18:33:50
+# START CONTENT #
+gotwitgo
+ .copyright 5ca9ec93b0d3e8c39e1a1c673eeb1ceddaf618a4
+ .dvcz
+  builds 6ad84ab55735983abcc2d7e70d0445cd1c6d3c13
+  lastBuildList 4dfa319384a063506630e7ed90f31b87749c0a61
+  projCfg 18bd65ebe443dd1ef7a20ea3af5d8449a2bedd31
+  projCfg.local 4ac4de0f4c72be6e229d51442d3b7eda478f4a5e
+  version b44406141eda73b0980e5561aa33d33652e78c4f
+ .gitignore ec0f9002629753cd248c6a672ef3de695c30f4b7
+ CHANGES 5f1f30b7e202fd57bed37159e648ab998a8d886b
+ LICENSE.md c2132880e33efb76f034c6424f14e9eba235cc23
+ README.jdd 21eba2c3bfb1ae2d791c2529478daf7540e1b78f
+ README.md 368a7f86bd30cd80aa5b7fba12f1d7e2d02c1fe3
+ TODO 9ee67a6f6bf8dae59426dc5a7eae24ea4d3bfa48
+ bkp2U 9ec59192cfaa1c933727e3eef8eddb80bff45aa2
+ cmd
+ countem 531f5e4554de28289a9a6a6c77bf62c701ffc949
+ easy-rest-definition.pdf 6d7304c45ce4240b75aa2ca032b9b52d5aa930e6
+ ghpDoc
+  TODO 0f241ee5fa624b4298a21d1da436421d7c80dd5b
+  css
+   LICENSE.html5-boilerplate.md ded771b3245b190da0e81c76de5a80d41392c0a6
+   ghp.css 1d6ebe8a6cf8f61f4645a793cb087dfae2420f33
+   main.css 018ed80b8a6e6607bc7c08595fa5a7fa56853885
+   normalize.css cba40c7ce3d558d00ff79d7505ac3d348015ec9c
+  img
+   GitHub-Mark-32px.png fabe53eb72f9b6d3d47cd95aff31ffc45c2fdbf8
+   chunk.jpg de2b27e41f1547fc14b13399f5906b4303b49657
+   chunk2.jpg d0593d312dbb8ea837c17b28cb639726e29ea93b
+   cluster-with-clients.jpg c167d04c0c6b5736ef9fe4cdc3fcce1956fdea78
+   simple-cluster.jpg 6b223ddd25937c1ef75ef328f36fc3436f10bd62
+   xl-registration.jpg 15cbf951f9db173a45428b32dcec87aca83bbdf0
+   xlattice-2014.jpg f185aaad06db71acd9454f31054c62c56d36f37f
+   xlattice.batik.jpg debe9220564203118dc53df0f5a48d77669fe367
+  index.md 0e30f8d9cf58d634a5780ddc4695d59c70360588
+ installit 9e2c89c996d3e86610b06c810a4f61a93c3ae3cd
+ styleit 58bd9dab9b6f3a08507a8e55178d7c42f2d34efc
+ test.all f93e9476bccd83c33fabe587ee4e2aac8bd9c5da
+ version.go ce1612e24dec18f1825f7b30d16094ab62e412e3
+# END CONTENT #
+
+G7bpv2aeO+tDawyIMIBONOp8DcMppsnENlUV3mVQVELAFeBjn+MsTq0kthKlI0UOr7K5k69zYrqWXv92ZAxX+Snr24b+JjHSEMcyRjycks8u2FnikSPfn6x0zbMMiNQBxBiNZDZJJ4dmTuFbe3FS6avHJjHYyYEJJlZDDf3/+8BTuwhseSFQ8OGGWBMq1Xa3+cMz0VR2mCw7G2zsqB7gSExuVuJgAqjt/TcOo0wKsq3RTBGXlf4PXCw6nzSFXnC+4YJ5ZSmoOJOrTgwcTYqYFyKurF4MdoLIAom4k6t98V6/UIV5fImzX6FfcWCbKDP91inMOFLkV/K52ulPVDzm6A==
