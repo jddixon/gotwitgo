@@ -1,5 +1,8 @@
 gotwitgo/CHANGES
 
+v0.1.8
+    2016-09-22
+        * standardize licensing                                     SLOC  613
 v0.1.7
     2016-06-22
         * add ghpDoc/{css,img}                                      SLOC  579
@@ -24,6 +27,7 @@ v0.1.1
 v0.1.0
     2013-12-30
         * initial commit 
+
 
 
 
