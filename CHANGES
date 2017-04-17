@@ -1,5 +1,8 @@
 gotwitgo/CHANGES
 
+v0.1.9
+    2017-04-17
+        * add projConfig.toml                                       SLOC  620
 v0.1.8
     2016-09-22
         * standardize licensing                                     SLOC  613
@@ -27,6 +30,7 @@ v0.1.1
 v0.1.0
     2013-12-30
         * initial commit 
+
 
 
 
