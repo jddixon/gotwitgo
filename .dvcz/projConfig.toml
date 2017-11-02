@@ -1,0 +1,23 @@
+# projConfig.toml for gotwitgo
+
+[meta]
+    version = '0.1.0'
+
+[project]
+    name = 'gotwitgo'  # distro name
+    package = 'gotwitgo'  # internal name
+    main_lang = 'go'
+    version = '0.1.10'
+    version_date = '2017-11-02'
+    author = 'Jim Dixon'
+    author_email = 'jddixon@gmail.com'
+    copyright = '2013-2016'
+    description = 'Go library for twitter'
+    dev_status = 'pre-alpha'
+    license = 'mit'
+    relpath = 'go/src/github.com/jddixon/gotwitgo'
+    state = 'shared'
+    url = 'https://jddixon.github.io/gotwitgo'
+
+[go]
+    cmds=[]
