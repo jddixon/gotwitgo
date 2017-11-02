@@ -1,4 +1,4 @@
-projConfig.toml for gotwitgo
+# projConfig.toml for gotwitgo
 
 [meta]
     version = '0.1.0'
@@ -7,8 +7,8 @@ projConfig.toml for gotwitgo
     name = 'gotwitgo'  # distro name
     package = 'gotwitgo'  # internal name
     main_lang = 'go'
-    version = '0.1.9'
-    version_date = '2017-04-17'
+    version = '0.1.10'
+    version_date = '2017-11-02'
     author = 'Jim Dixon'
     author_email = 'jddixon@gmail.com'
     copyright = '2013-2016'

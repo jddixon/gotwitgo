@@ -1,5 +1,8 @@
 gotwitgo/CHANGES
 
+v0.1.10
+    2017-11-02
+        * correct directory structure and config files
 v0.1.9
     2017-04-17
         * add projConfig.toml                                       SLOC  620
@@ -30,6 +33,7 @@ v0.1.1
 v0.1.0
     2013-12-30
         * initial commit 
+
 
 
 
